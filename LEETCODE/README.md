@@ -21,4 +21,12 @@ This folder contains all the LEETCODE PROBLEMS SOLVED AND ANY SPECIAL MENTION IF
             <td>Good problem for binary search</td>
         </tr>
     </tbody>
+    <tbody>
+        <tr>
+            <td>2064</td>
+            <td>minimized-maximum-of-products-distributed-to-any-store</td>
+            <td>Array, Binary Search</td>
+            <td>Good problem for binary search</td>
+        </tr>
+    </tbody>
 </table>
