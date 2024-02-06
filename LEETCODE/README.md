@@ -28,5 +28,11 @@ This folder contains all the LEETCODE PROBLEMS SOLVED AND ANY SPECIAL MENTION IF
             <td>Array, Binary Search</td>
             <td>Good problem for binary search</td>
         </tr>
+        <tr>
+            <td>852</td>
+            <td>peak-index-in-a-mountain-array</td>
+            <td>Array, Binary Search</td>
+            <td>Classic Binary Search</td>
+        </tr>
     </tbody>
 </table>

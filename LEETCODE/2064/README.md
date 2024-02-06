@@ -1,4 +1,4 @@
-# Capacity To Ship Packages Within D Days
+# Minimized Maximum of Products Distributed to Any Store
 
 ### Problem Link
 https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/
